@@ -53,6 +53,8 @@ O projeto foi dividido em componentes para facilitar a organização, a manuten�
 - **Props:** passagem de dados de um componente para outro.
 - **CSS:** estilização própria da aplicação.
 
+## 🤖 Uso de Inteligência Artificial
+
 A inteligência artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do HotelVibe, auxiliando na resolução de dúvidas, na escrita de alguns trechos de código e na compreensão de conceitos do Vue.js.
 
 ### Registro do uso da IA
@@ -67,7 +69,6 @@ A inteligência artificial foi utilizada como ferramenta de apoio durante o dese
 | 6. Documentação | Apoio na organização das informações do README. |
 
 A inteligência artificial foi utilizada como recurso complementar, contribuindo para o aprendizado e para a resolução de dúvidas durante o desenvolvimento. A equipe participou da construção, organização e verificação do projeto.
-
 ## ▶️ Como executar o projeto
 
 1. Abra o projeto no StackBlitz.
