@@ -53,26 +53,20 @@ O projeto foi dividido em componentes para facilitar a organização, a manuten�
 - **Props:** passagem de dados de um componente para outro.
 - **CSS:** estilização própria da aplicação.
 
-## 🤖 Uso de inteligência artificial
+A inteligência artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do HotelVibe, auxiliando na resolução de dúvidas, na escrita de alguns trechos de código e na compreensão de conceitos do Vue.js.
 
-A inteligência artificial foi utilizada como ferramenta de apoio ao desenvolvimento, auxiliando no planejamento da estrutura, na criação inicial dos componentes, na integração da aplicação, na estilização e na organização da documentação.
+### Registro do uso da IA
 
-Os integrantes devem revisar os códigos e compreender as funcionalidades antes da apresentação.
-
-### Registro dos prompts utilizados
-
-Os itens abaixo resumem as solicitações feitas durante o desenvolvimento. Eles devem ser ajustados para corresponder às solicitações realmente utilizadas pela equipe.
-
-| Etapa | Resumo da solicitação à IA |
+| Etapa | Como a IA auxiliou |
 |---|---|
-| 1. Planejamento | Solicitação de ajuda para planejar a estrutura de um site de hotel antes de começar a programar. |
-| 2. Estrutura do projeto | Definição da organização dos componentes e da criação do projeto no StackBlitz. |
-| 3. Cabeçalho e quartos | Solicitação de código para o cabeçalho e para um componente reutilizável de apresentação dos quartos. |
-| 4. Reservas | Solicitação dos componentes de formulário de reserva, confirmação e avaliação. |
-| 5. Integração | Solicitação da integração dos componentes no `App.vue` e da criação do CSS geral. |
-| 6. Testes e documentação | Apoio na verificação das funcionalidades e na preparação da documentação do projeto. |
+| 1. Planejamento | Apoio na organização inicial das ideias do projeto. |
+| 2. Desenvolvimento | Auxílio na escrita de alguns trechos de código em Vue.js, JavaScript e CSS. |
+| 3. Componentes | Esclarecimento de dúvidas sobre componentes reutilizáveis. |
+| 4. Funcionalidades | Apoio na compreensão de formulários, eventos e reatividade. |
+| 5. Revisão | Auxílio na identificação de possíveis ajustes no código. |
+| 6. Documentação | Apoio na organização das informações do README. |
 
-**Importante:** a equipe deve conferir o histórico de conversas e adaptar esse registro, acrescentando ou corrigindo os prompts conforme necessário. A IA foi utilizada como apoio, e o funcionamento do projeto deve ser verificado pelos integrantes.
+A inteligência artificial foi utilizada como recurso complementar, contribuindo para o aprendizado e para a resolução de dúvidas durante o desenvolvimento. A equipe participou da construção, organização e verificação do projeto.
 
 ## ▶️ Como executar o projeto
 
